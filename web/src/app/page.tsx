@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div className="flex min-h-screen flex-col">
       <div className="flex items-center justify-between border-b px-6 py-3">
-        <h1 className="text-xl font-bold">upload.ui</h1>
+        <h1 className="text-xl font-bold">upload.ai</h1>
         <div className="flex items-center gap-3">
           <span className="text-sm text-muted-foreground">
             Desenvolvido com 💜 no NLW da Rocketseat
