@@ -34,6 +34,9 @@ export default function Home() {
       videoId,
       temperature,
     },
+    headers: {
+      'Content-type': 'application/json',
+    },
   })
 
   return (
